@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Preds0504
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ I’m @Preds0504 on github and my real name is Tyler
+ I’m interested in coding (obviously) but my hobbies are things like play games, anime, working out, watching horror films, listening to metal, and watching stuff on YouTube
+I am just trying to get adjusted to coding in general and getting used to using things like git bash and git hub
 
-<!---
-Preds0504/Preds0504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My professional email is tyhard1984@gmail.com
+
